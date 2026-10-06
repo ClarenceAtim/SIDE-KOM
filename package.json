@@ -1,0 +1,15 @@
+{
+  "name": "sidekom-site",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
